@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate/?business=2UH322EPD7JY6&no_recurring=0&currency_code=GBP)
-
 <!--
 **henrybetts/henrybetts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
